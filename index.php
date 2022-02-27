@@ -144,7 +144,7 @@
         </div>
 
         <footer>
-            <h3>All @copyright reserved bt liztechnology</h3>
+            <h4>All @copyright reserved bt liztechnology</h3>
         </footer>
     
 </body>
